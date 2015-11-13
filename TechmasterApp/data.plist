@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Number</key>
+		<string>1</string>
+		<key>Position</key>
+		<string>Goal keeper</string>
+		<key>Name</key>
+		<string>Marc-Andre ter Stegen</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>3</string>
+		<key>Position</key>
+		<string>Defender</string>
+		<key>Name</key>
+		<string>Gerard Pique</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>4</string>
+		<key>Position</key>
+		<string>Midfielder</string>
+		<key>Name</key>
+		<string>Ivan Rakitic</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>5</string>
+		<key>Position</key>
+		<string>Midfielder</string>
+		<key>Name</key>
+		<string>Sergio Busquets</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>7</string>
+		<key>Position</key>
+		<string>Forward</string>
+		<key>Name</key>
+		<string>Pedro Rodriguez</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>8</string>
+		<key>Position</key>
+		<string>Midfielder</string>
+		<key>Name</key>
+		<string>Andres Iniesta</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>9</string>
+		<key>Position</key>
+		<string>Forward</string>
+		<key>Name</key>
+		<string>Luis Suarez</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>10</string>
+		<key>Position</key>
+		<string>Forward</string>
+		<key>Name</key>
+		<string>Lionel Messi</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>11</string>
+		<key>Position</key>
+		<string>Forward</string>
+		<key>Name</key>
+		<string>Neymar</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>12</string>
+		<key>Position</key>
+		<string>Midfielder</string>
+		<key>Name</key>
+		<string>Rafinha</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>13</string>
+		<key>Position</key>
+		<string>Goal keeper</string>
+		<key>Name</key>
+		<string>Claudio Bravo</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>14</string>
+		<key>Position</key>
+		<string>Midfielder</string>
+		<key>Name</key>
+		<string>Javier Mascherano</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>15</string>
+		<key>Position</key>
+		<string>Defender</string>
+		<key>Name</key>
+		<string>Marc Bartra</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>16</string>
+		<key>Position</key>
+		<string>Defender</string>
+		<key>Name</key>
+		<string>Douglas</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>18</string>
+		<key>Position</key>
+		<string>Defender</string>
+		<key>Name</key>
+		<string>Jordi Alba</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>20</string>
+		<key>Position</key>
+		<string>Midfielder</string>
+		<key>Name</key>
+		<string>Sergi Roberto</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>21</string>
+		<key>Position</key>
+		<string>Defender</string>
+		<key>Name</key>
+		<string>Adriano</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>22</string>
+		<key>Position</key>
+		<string>Defender</string>
+		<key>Name</key>
+		<string>Dani Alves</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>23</string>
+		<key>Position</key>
+		<string>Defender</string>
+		<key>Name</key>
+		<string>Thomas Vermaelen</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>24</string>
+		<key>Position</key>
+		<string>Defender</string>
+		<key>Name</key>
+		<string>Jeremy Mathieu</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>25</string>
+		<key>Position</key>
+		<string>Goal keeper</string>
+		<key>Name</key>
+		<string>Jordi Masip</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string></string>
+		<key>Position</key>
+		<string>Midfielder</string>
+		<key>Name</key>
+		<string>Alex Song</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string></string>
+		<key>Position</key>
+		<string>Midfielder</string>
+		<key>Name</key>
+		<string>Arda Turan</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string></string>
+		<key>Position</key>
+		<string>Midfielder</string>
+		<key>Name</key>
+		<string>Aleix Vidal</string>
+	</dict>
+</array>
+</plist>
