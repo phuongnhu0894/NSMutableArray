@@ -25,12 +25,13 @@
     
     NSMutableArray *result = [[NSMutableArray alloc] init];
     for (NSString *word in words) {
-        if (![exception containsObject:word.lowercaseString] &&
-            ![result containsObject:word.lowercaseString]) { // dam bao tu khong bi trung lap
+        if (![exception containsObject:word.lowercaseString] /*&&
+            ![result containsObject:word.lowercaseString]*/) { // dam bao tu khong bi trung lap
             [result addObject:word.lowercaseString];
             //[self writeln:word];
         }
     }
+    
     NSCountedSet *setCount = [[NSCountedSet alloc] initWithArray:result]; // dem so lan xuat hien cua tu
     for (id num in setCount) {
         NSLog(@"%@ - %lu", num, (unsigned long)[setCount countForObject:num]);
